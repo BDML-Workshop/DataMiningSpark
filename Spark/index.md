@@ -52,3 +52,4 @@ Apache Spark is written in Scala programming language. To support Python with Sp
 PySpark offers PySpark Shell which links the Python API to the spark core and initializes the Spark context. Majority of data scientists and analytics experts today use Python because of its rich library set. Integrating Python with Spark is a boon to them.
 
 # [Installing Spark...](install)
+# Mastering Big Data Analytics with PySpark [Machine Learning & Data Mining Workshop](/BDA/)

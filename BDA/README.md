@@ -59,7 +59,22 @@ Operating system: Windows 10, Linux or mac
 
 
 ## Follow the instructions below to download the data belonging to the course as well as
- setting up your interactive development environment.
+
+### setting up your interactive development environment.
+
+There is a bundled script that will help you in all theses steps, but to be able to launch the script we need first to install python, and java (needed for Spark), you will not use Java but it is needed for running spark
+
+#### We will use powershell, verify that it is installed on your windows 10
+
+#### Step1 : Install Java
+
+First verify if java installed, if not install it
+
+#### Step 2 : Install python 
+
+First verify that python is installed, if not install it
+
+#### Step 3: install git
 
 ### Downloading Data for this Course
 
@@ -67,11 +82,11 @@ Once you have cloned this repository locally, simply navigate to the folder you 
  stored the repo in and run: 
  
  #### in the folder <repoFolder>/BDA
-```python download_abd_install_pyspark.py```
+```python download_and_install_pyspark.py```
 
-This will install an environement to be used on a shell or powershell teminal and jupyter lab (will use to simplify things only jupyter lab)
+This will install an environnement to be used on a shell or powershell terminal and jupyter lab (will use to simplify things only jupyter lab)
 
-#### in the foolder <repoFolder>/BDA
+#### in the folder <repoFolder>/BDA
 ```python download_data.py```
 
 This will populate the `data-sets` folder in your repo with a number of data sets that
