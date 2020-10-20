@@ -12,6 +12,7 @@ logging.basicConfig(
 logger = logging.getLogger("CourseHandler")
 
 # CONFIGURATIONS / SET UP
+HOME_PATH = Path(os.environ('HOME'))
 REPO_PATH = Path(__file__).resolve().parent
 # Extract download path for Data Sets
 

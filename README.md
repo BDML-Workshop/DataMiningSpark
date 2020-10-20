@@ -1,21 +1,7 @@
 # TODO find a title : ... Hand-on Big Data and deep learning ...
 
-## [proposed Schedule](master)
 
-[see for more details](https://github.com/hikmatfarhat-ndu/CSC645)
-
-
-## Two parts Neural Network for Machine Learning and Text mining as part of Data mining
-
-### Part 1 : [Neural Network for Machine Learning](master). 
-
-It is meant to be a hands-on course without sacrificing the conceptual background. As such the first few code examples are developed (using numpy or cupy) from basic principles without using any ML framework. After that we use Tensorflow v2 for almost all examples.
-
-[see for more details](https://github.com/hikmatfarhat-ndu/CSC645)
-
-TODO: complete this intro
-
-### Part 2: [Data mining, text mining and Big Data Concepts applications with Spark and Python](BigData/)
+### Part 1: [Data mining, text mining and Big Data Concepts by examples with Spark and Python](BigData/)
 
 #### What data tell us?
 
@@ -24,14 +10,35 @@ TODO: complete this intro
 * What is likely to happen? : Predictive
 * What do I need to do? : Prescriptive
 
-**This part, after a first general presentation on the techniques and theories about text mining, presents simple examples and a more realistic use case:** 
+**This part, present techniques and theories about data mining and text mining, throw simple examples and more realistic use case:** 
 
+Theses hand-on are mainly inspired by this workshop : https://github.com/PacktPublishing/Mastering-Big-Data-Analytics-with-PySpark Authored by: [Danny Meijer](https://www.linkedin.com/in/dannydatascientist). It is in fact started as a fork with adaptation to windows 10 (WSL) and add some parts issued form our courses in [Cnam Liban](http://www.cnam-liban.fr).
+[Ingénierie de la fouille et de la visualisation de données massives](http://cedric.cnam.fr/vertigo/Cours/RCP216/)
+and
+[Cours de bases de données documentaires et distribuées](http://b3d.bdpedia.fr/)
 
-Learning how to examine, with Spark and python (pySpark), the content of a fairly large text base, using Latent Semantic Analysis (LSA). The primary goal is to **explore** the data by determining which "concepts" (or semantic classes) best explain the data. We will also **extract representative documents** and **make queries** that find documents in the database that mention certain terms or that are **similar to** a query document. 
+## About the WorkShop
 
-LSA aims to better represent a corpus of documents by exploring the relationships between words in documents. The aim is to “distil” from the corpus a set of relevant “concepts”. Each concept captures a direction of variation in the data, which often corresponds to a subject addressed in the corpus. Broadly speaking, each concept is described by three characteristics: the relevance of the concept for each document in the corpus, the affinity with the terms present in the corpus and the usefulness of the concept in describing the variance of the data. By selecting only the most important concepts, LSA can describe the data with a rough representation that employs fewer concepts, eliminates "noise", and merges similar topics.
+[ ] adapt this paragraph
 
-[see for more details](BigData/)
+Spark and it Python API PySpark helps you perform data analysis at-scale; it enables you to build more scalable analyses and pipelines. Theses activities starts by introducing you to PySpark's potential for performing effective analyses of large datasets. You'll learn how to interact with Spark from Python and connect Jupyter to Spark to provide rich data visualizations. After that, you'll delve into various Spark components and its architecture.
+
+You'll learn to work with Apache Spark and perform ML tasks. Gathering and querying data using Spark SQL, to overcome challenges involved in reading it. You'll use Resilient Distributed Datasets and the DataFrame API to operate with Spark MLlib and learn about the Pipeline API. Finally, we provide tips and tricks about open and free ('libre') environnement to do this kind of work : Data analyst, machine learning, development, EDI, ...
+
+By the end of this course, you will not only be familair with data analytics but will have also learned to use PySpark to easily analyze large datasets at-scale in organizations.
+
+## What You Will Learn
+
+* Install development environnement for Data Analytic and machine learning by using Spark framework 
+* Better knowledge about python, machine learning, functional programming, distributed paradigms for data analysis and interactive tools for learning and trying
+* Gain knowledge of vital Data Analytics concepts via practical use cases
+* Create elegant data visualizations using Jupyter
+* Run, process, and analyze large chunks of datasets using PySpark
+* Utilize Spark SQL to easily load big data into DataFrames
+* Create fast and scalable Machine Learning applications using MLlib with Spark
+* Perform exploratory Data Analysis in a scalable way
+* Achieve scalable, high-throughput and fault-tolerant processing of data streams using Spark Streaming
+
 
 ---
 
@@ -44,11 +51,21 @@ LSA aims to better represent a corpus of documents by exploring the relationship
 - [ ] Develop asynchronous lectures (vidéo and assessment of each item of Session1 fundamentals of Big data, MAL and text mining as part of data mining
 - [ ] Develop the lab (how-to spark+python, and the examples)
 
-## Proposed methodology (Pedagogy)
+## Learning by examples lectures (activities): prerequisite, organisation and outcomes
 
-Some sessions could be asynchronous and be freely accessible by registered students (or even public with a creative common licence). This kind of sessions will contain small parts: (small videos 10-15mn, the assessment for each part, Tools to communicate with the instructor: forum or chat). Each asynchronous session ends with an synchronous online class for debriefing and some complements based on the results of assessments and learner questions)
 
-_**Platforms:**  google classroom, google drive, github, Windows 10 or Linux, Spark, Python, PySpark and Jupyter Notebook._
+1. Each lecture will be presented with a small video
+2. You will have to try by yourself, Do not be afraid it will be straightforward, by cloning a git repository and using an interactive environment jupyter lab
+Many gathering with me will be done for your questions and more explanations if needed.
+3. You will use the issue tracker for your questions and responses
+4. Google meet for the webconf (after the first session 16/11/2020 17h) we will plan
+5. Each activity is approximately 15mn video 30mn personal work
+6. Theses sessions (starting 16/11/2020 17h) will be composed of 6 activities
+The fundamentals behind machine learning, data mining and text mining will be presented gradually by covering specific activities
+
+
+
+_**Platforms:**  google classroom, google drive, github, Windows 10 WSL, Linux, Spark, Python, PySpark and Jupyter Notebook._
 
 
 
