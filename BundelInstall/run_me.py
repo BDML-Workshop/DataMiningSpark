@@ -1,3 +1,5 @@
+#! /home/pascalfares/vDMA/bin/python
+
 from pathlib import Path
 import sys
 import subprocess
@@ -5,6 +7,7 @@ import os
 import logging
 
 from download_data import download
+from sparkDownload import download as download_spark
 
 logging.basicConfig(
     level=logging.DEBUG, format="%(levelname)-7s  %(name)-19s  %(message)s", style="%"
@@ -20,13 +23,17 @@ if __name__ == "__main__":
     logger.info("1. Step 1 : Install Java ")
     subprocess.check_call(['java','--version'])
     logger.info("Installing spark, needed packages and pyspark")
-    subprocess.check_call([sys.executable, "-m", "pip", "-U", '-r', './requirement_me.txt'])
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "-U", '-r', 'requirement_me.txt'])
     logger.info("And Downloading the data")
+    download_spark()
+    
     download()
 
     # Set up the course launch pyspark
     logger.info("Set up environment of the course and launch pyspark with jupyter lab")
-    BASE_DIR = Path(__file__).resolve().parent
+    HOME_PATH = Path(os.environ['HOME'])
+    REPO_PATH = HOME_PATH / 'DataMiningSpark'
+    BASE_DIR = REPO_PATH
     spark_home = 'sparkhome/spark-3.0.1-bin-hadoop2.7'
     data_examples = spark_home + "/data"
     data_sets = 'data-sets'
@@ -39,5 +46,5 @@ if __name__ == "__main__":
     os.environ['PYSPARK_DRIVER_PYTHON_OPTS'] = 'lab'
 
     # subprocess.check_call(os.environ['SPARK_HOME'] + '/bin/pyspark', shell=True)
-    subprocess.Popen([os.environ['SPARK_HOME'] + '/bin/pyspark.cmd'])
-    print("Voila ..... Wait a litle and Enjoy")
+    os.system(f"cd ..; {os.environ['SPARK_HOME']+ '/bin/pyspark'}")
+    print("Voila ..... Wait a little and Enjoy")

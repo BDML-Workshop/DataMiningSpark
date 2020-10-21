@@ -1,3 +1,5 @@
+#! /home/pascalfares/vDMA/bin/python
+
 from pathlib import Path, PurePath
 import subprocess
 import configparser
@@ -13,7 +15,7 @@ logging.basicConfig(
 logger = logging.getLogger("CourseHandler")
 
 # CONFIGURATIONS / SET UP
-HOME_PATH = Path(os.environ('HOME'))
+HOME_PATH = Path(os.environ['HOME'])
 REPO_PATH = HOME_PATH / 'DataMiningSpark'
 # Extract download path for Data Sets
 
@@ -21,7 +23,7 @@ WORK_PATH = REPO_PATH / "work"
 # Set chunk size for downloading (avoid unnecessary loading to memory)
 CHUNK_SIZE = 5242880  # 5 MB in bytes
 # Name/location of the files download configuration file
-CONFIG_LOCATION = REPO_PATH / "BundeledInstall" /"conf" / "filesDownload.conf" 
+CONFIG_LOCATION = REPO_PATH / "BundelInstall" /"conf" / "filesDownload.conf" 
 
 
 def create_dir_if_not_exists(dir_path):
@@ -107,8 +109,8 @@ def process_section(config, section):
                 downloaded_file.extractall(destination_path)
         elif file_type == 'tgz':
             print(destination_filepath + str(Path(destination_filepath).exists()))
-            subprocess.check_call(
-                ['tar', '-xzf', destination_filepath, '-C', destination_path], shell=True)
+            logger.info(f"tar -xzvf {destination_filepath} -C {str(destination_path)}/")
+            os.system(f"tar -xzvf {destination_filepath} -C {str(destination_path)}/")
 
         # Remove zip file
         logger.info('Removing zip-file "%s"', filename)
@@ -116,7 +118,7 @@ def process_section(config, section):
 
 
 def download(config_location=str(CONFIG_LOCATION)):
-
+    logger.info('COnfig file "%s"', config_location)
     # PROCESSING DATA SETS DEFINED IN CONFIGURATION FILE
     config = configparser.ConfigParser()
     config.read(str(CONFIG_LOCATION))

@@ -15,11 +15,15 @@ VENV_PATH = HOME_PATH / 'vDMA'
 logger.info(f"Step 0: git clone https://github.com/opentrainingcamp/DataMiningSpark.git")
 
 logger.info(f"Step 1: Virtual env")
+python_v_path = str(VENV_PATH)+'/bin/python'
 if not os.path.exists(VENV_PATH):
     logger.info(f"Creating virtual env {str(VENV_PATH)}")
     subprocess.check_call([sys.executable, "-m", "venv", str(VENV_PATH)])
+    logger.info(f"echo \"export PATH={str(VENV_PATH)+'/bin'}:\$PATH\" >> ~/.bashrc")
+    os.system(f"echo \"export PATH={str(VENV_PATH)+'/bin'}:\$PATH\" >> ~/.bashrc")
 else:
-    logger.info(f"virtual env {str(VENV_PATH)} already exist")
+    os.system(f"echo \"export PATH={str(VENV_PATH)+'/bin'}:\$PATH\" >> ~/.bashrc")
+    logger.info(f"virtual env {str(VENV_PATH)+'/bin'} already exist")
 
 logger.info(f"Step 1.2: tuning Virtual env, instaling needed packages")
 python_v_path = str(VENV_PATH)+'/bin/python'
