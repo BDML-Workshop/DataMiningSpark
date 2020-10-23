@@ -1,7 +1,4 @@
-# TODO find a title : ... Hand-on Big Data and deep learning ...
-
-
-### Part 1: [Data mining, text mining and Big Data Concepts by examples with Spark and Python](BigData/)
+# Part 1: [Data mining, text mining and Big Data Concepts by examples with Spark and Python](BigData/)
 
 #### What data tell us?
 
@@ -19,7 +16,6 @@ and
 
 ## About the WorkShop
 
-[ ] adapt this paragraph
 
 Spark and it Python API PySpark helps you perform data analysis at-scale; it enables you to build more scalable analyses and pipelines. Theses activities starts by introducing you to PySpark's potential for performing effective analyses of large datasets. You'll learn how to interact with Spark from Python and connect Jupyter to Spark to provide rich data visualizations. After that, you'll delve into various Spark components and its architecture.
 
@@ -40,32 +36,28 @@ By the end of this course, you will not only be familair with data analytics but
 * Achieve scalable, high-throughput and fault-tolerant processing of data streams using Spark Streaming
 
 
----
-
-## TODO ... 
-- [x] Start the forked project
-- [x] Validate the idea
-- [x] Validate Pedagogical methodologie
-- [x] Validate the planning (sessions)
-- [ ] Complete the intro
-- [ ] Develop asynchronous lectures (vidéo and assessment of each item of Session1 fundamentals of Big data, MAL and text mining as part of data mining
-- [ ] Develop the lab (how-to spark+python, and the examples)
-
 ## Learning by examples lectures (activities): prerequisite, organisation and outcomes
 
 
 1. Each lecture will be presented with a small video
 2. You will have to try by yourself, Do not be afraid it will be straightforward, by cloning a git repository and using an interactive environment jupyter lab
-Many gathering with me will be done for your questions and more explanations if needed.
+3. Many gathering with me will be done for your questions and more explanations if needed.
 3. You will use the issue tracker for your questions and responses
 4. Google meet for the webconf (after the first session 16/11/2020 17h) we will plan
 5. Each activity is approximately 15mn video 30mn personal work
 6. Theses sessions (starting 16/11/2020 17h) will be composed of 6 activities
+
 The fundamentals behind machine learning, data mining and text mining will be presented gradually by covering specific activities
 
 
 
 _**Platforms:**  google classroom, google drive, github, Windows 10 WSL, Linux, Spark, Python, PySpark and Jupyter Notebook._
+
+
+# What is spark? installing environement WSL (Windows Subsystem for Linux), java, python, spark, pyspark and jupyter lab
+# Core concept bihing haddop and spark, the filter map reduce paradigme
+# A series of activities to manipulate pyspark, collect data to gardualy present fundamentals behind machine learning, data mining and text mining
+
 
 
 
