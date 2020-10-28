@@ -1,0 +1,586 @@
+spec,IdCentre,ouverture,NoEtud,Nodossier,nom,prenom,pere,tel,mobile,email
+,1,1,609904,10052 f,ALAYWAN,Mostafa,Abed-Alghani,07/996190,70626813,mostafa_stat@hotmail.com
+,1,1,612812,10926 f,EL HABR,Raphael,Fadi,05200456,79304941,raphaelhabr@gmail.com
+,1,2,612493,10962 f,ZAGHRINI,Christine,Walid,04/295639,70455183,christine.zaghrini@gmail.com
+,1,3,608655,1478 bek,AL KHOURY,Roudy,Jean,,76045388,
+,1,3,611048,10556 f,ASFOUR,Ingrid,George,01 248766,76139354,ingridasfour@outlook.com
+,1,3,611305,10393 f,ASSAF,Tania,Georges,05/941385,71529418,tania.assaf95@gmail.com
+,1,3,610995,10369 f,AWAD,Elia,Antoine,01/487703,71037220,elia.t.awad@gmail.com
+,1,3,606932,9034 f,AYOUB,Elias,Abdo,,76162409,
+,1,3,608859,1540 bek,BOU JAOUDE,Valenty,Abdallah,,76464690,valentyaboujaoude@gmail.com
+,1,3,608949,933 z,CHAHLA,Ahmad,Mohamad,,78853619,a
+,1,3,609002,948 z,HACHEM,Khalil,Walid,,71048053,hachem95@hotmail.com
+,1,3,606441,9101 f,HAMMOUD,Mahmoud,Hassan,,70066372,mahmoud_hammoud_92@hotmail.com
+,1,3,612509,10813 f,KOUBEISSI,Nour El Hoda,Hassan,01/396786,70878295,nourelhoda.koubeissi@gmail.com
+,1,3,610890,10477 f,MATAR,Rawad,Joseph,05/600730,76574648,rawadmatar98@hotmail.com
+,1,3,611985,10661 f,MOGHARBEL,Wadad,Naji,,70948105,wadadmghl@gmail.com
+,1,3,612494,10963 f,SAAD,Khaled,Ibrahim,07/623974,71730419,khaled_saad23@hotmail.com
+,1,3,609877,977 z,SAID,Talal,Faysal,,71274364,talal_said40@hotmail.com
+,1,3,609219,928 z,SALLOUM,Salim,Abdul Nasser,,71501528,salim.3111@outlook.com
+,1,3,611912,10651 f,SWAIDAN,Wissam,Samir,01/361968,70845659,we_sum@hotmail.com
+,1,3,606344,1323 bek,ZIADEH,Elias,Antoine,,03729237,lallous1995@hotmail.com
+,4,2,610402,1070 baal,MASSRY,Fatima,Abbass,,71517479,
+,4,3,610927,1101 baal,KANSOH,Houssein,Haytham,08-201850,79114755,
+,5,3,611430,1857 t,AL CHAMI,Tarek,Jihad,,71753632,
+,5,3,607671,1653 t,AL-AYOUBI,Hilal,Al-Amir haroun,,71028891,civil.ayoubi@outlook.com
+,5,3,610916,1850 t,SAATY,Said,Nazih,06446226,70166797,
+,7,3,612241,1775 bek,JABBOUR,Maroun,Georges,04532622,71088278,Maroun-jabbour@hotmail.com
+,8,2,612994,2350 n,KOUBRIANOS,Georges,Charbel,,70788944,
+,8,2,611127,2052 n,MATTA,Charbel,Hady,09624814,76477240,aba-10@live.com
+,8,3,608850,1482 n,CHDID,Charbel,Wadih,,70196440,
+,8,3,609449,1372 n,FAYAD,Elias,Georges,,71157342,elias_fayad@live.com
+1.0,1,1,612709,10833 f,ABDELKADER,Omar,Moustafa,06880243,76521952,omarabdelkader202@gmail.com
+1.0,1,1,611212,10958 f,EL KEBBI,Mohamad-Ali,Bilal,03/245824,71634408,kebbemohamadalee@outlook.com
+1.0,1,1,612697,10895 f,EL KHOURY,Joseph,Bassam,05468129,76113116,j.khoury2000@live.com
+1.0,1,1,612764,10887 f,HAMADE,Ali,Hussein,,70863533,hamadeali1111@gmail.com
+1.0,1,1,612758,10818 f,HASSAN,Nour,Mounzer,01644778,71217227,hnour2396@gmail.com
+1.0,1,1,612937,10860 f,KHAIRALLAH,Emile,Nabil,,71432851,emilekhairallah@gmail.com
+1.0,1,1,612785,10822 f,KHOURI,Fadi,Joseph,05437684,76376792,
+1.0,1,1,612640,10838 f,KURDI,Sami,Amir,01300008,70178612,kurdisami3@gmail.com
+1.0,1,1,612936,10859 f,WEHBE,Ayman,Ahmad,,76770024,aymanwehbe099@hotmail.com
+1.0,1,1,612716,10892 f,YOUNES,Sara,Ibrahim,,71423865,sarayounis252@gmail.com
+1.0,1,1,612773,10883 f,ZAAYTER,Danielle,Ali,,71867656,daniellez@hotmail.com
+1.0,1,1,612837,10924 f,ZAKKOUR JRADEH,Abdel RAOUF,Salim,01834534,71481953,abedjradeh@gmail.com
+1.0,1,1,612598,10843 f,ZGHEIB,Mikhael,Raymond,01492653,71788681,zgheibmikhael@outlook.com
+1.0,1,2,613083,4920 p,AL ARAB,Rayan,Ali,,71625224,arabrayan@hotmail.com
+1.0,1,2,613036,10913 f,CHEHABEDDINE,Sahar,Ziad,05303325,76648289,sahar.chehabeddine@gmail.com
+1.0,1,2,613048,10849 f,CHERFANE,Anthony,Cherfane,01563884,76693447,anthony_Cherfane@hotmail.com
+1.0,1,2,613087,10848 f,HARB,Tomy,Salem,,76449393,tomy.hareb@gmail.com
+1.0,1,2,613037,4898 p,YEHIA,Jolnar,Marwan,,71571209,yehiajolnar@gmail.com
+1.0,1,3,34424,6046 f,MOUHAMAD,Ahmad,Bader,,03786798,ahm_bader@hotmail.com
+1.0,1,5,613158,4939 p,MCHEIK,Gihane,Sleiman,,76015494,
+1.0,1,5,613149,10979 f,YOUNES,Martin,Elias,04807878,71002055,martinyounes1@gmail.com
+1.0,4,1,612594,1171 baal,ABO ESBER,Hussein,Ali,,76415209,
+1.0,4,1,612552,1185 baal,ASSFAHANI,Ali,Hussein,08/372234,76415001,
+1.0,4,1,612566,1166 baal,AWDI,Wahib,Ahmed,,78861018,
+1.0,4,1,612712,593 p4,ISMAIL,Nermeen,Mohammad,,81884935,
+1.0,4,1,612694,1172 baal,JAMAL EDDINE,Tala,Fadlalla,,03692849,tala.jamaleddine@gmail.com
+1.0,4,1,612819,596 p4,MOHSSEN,Abbass,Fouad,,71473134,
+1.0,4,1,612995,1177 baal,RAYID,Safia,Mohammad,,79148966,safiarayid20@gmail.com
+1.0,4,1,612577,1168 baal,RMAYLE,Pierre,Jihad,08/951183,79312241,
+1.0,4,2,612593,1170 baal,AL-HEK,Rana,Mohammad,03283307,81856342,ranam.alhek@gmail.com
+1.0,4,2,612452,1155 baal,ALBAIDA,Monzer,Mohamad,,78901253,monzeralb@gmail.com
+1.0,4,2,613024,1160 baal,MAZLOUM,Zeinab,Ali,,76577694,
+1.0,4,2,612292,1136 baal,MCHEICK,Lama,Ali,,81840868,
+1.0,4,2,612570,1167 baal,SAKAR,Mostafa,Mohammad,,70837655,moustafasakar@gmail.com
+1.0,4,2,613028,1179 baal,SARKIS,Gerios,Hanna,,71529603,geriossarkis213@gmail.com
+1.0,4,2,612531,1157 baal,SINDYAN,Mouhamad,Hamad,,70925230,mouhamadsindan1991@gmail.com
+1.0,4,2,613026,604 p4,TLAIS,Mohammad Jaafar,Ali,,70585411,
+1.0,4,3,612452,1155 baal,ALBAIDA,Monzer,Mohamad,,78901253,monzeralb@gmail.com
+1.0,4,3,612348,1134 baal,AOUN,Melissa,Anwar,,71364711,
+1.0,4,3,611204,1099 baal,CHEIKHALI,Fatima,Mouhammad,,76450559,
+1.0,4,3,611064,1112 baal,MBAYED,Elie,Georges,,71518728,mbayedelie@gmail.com
+1.0,4,3,612292,1136 baal,MCHEICK,Lama,Ali,,81840868,
+1.0,4,4,613147,1194 baal,AL KAK,Mouhammad,Ali,,70932817,
+1.0,4,4,613124,1182 baal,AL MASRI,Ali,Naif,08345310,71903671,marshal.masri086@gmail.com
+1.0,4,4,613146,1193 baal,ALLAM,Alaa,Ahmad,,70251173,
+1.0,4,4,613139,1186 baal,MASRI,Mahmoud,Nayef,08345310,71903672,roeymasri@gmail.com
+1.0,5,1,612736,1937 t,BEYROUTI,KOUSAY,Mouhamad,,70534790,
+1.0,5,1,612590,1649 p5,EL JAMAL,AbdelRahman,AbdelRahman,06437476,03099381,
+1.0,5,1,612769,1948 t,FAYAD,Hicham,Khaled,06-427402,03518433,
+1.0,5,1,612579,1922 t,KASSAR,Mohamed,Ahmad,06433761,71686942,n_tonio36.poke@outlook.com
+1.0,5,1,612607,1652 p5,LABABIDI,Sana,Nazih,,71250641,sanalababidi22@hotmail.com
+1.0,5,2,613056,1927 t,AL FERKH,Taha,Hamid,06-400679,78803221,taha.ferkh@hotmail.com
+1.0,5,2,611955,1891 t,EL-ALI,Shaza,Omar,06424994,70281992,
+1.0,5,2,613069,1926 t,NASR,Nicolas,Toufic,,76641052,nicolasnasr07@gmail.com
+1.0,5,3,612231,1888 t,ALHAJ,Mohammad,Abd Albaset,06437488,70571167,elhajmohammad@yahoo.com
+1.0,5,3,610892,1841 t,EL ALI,Amar,Omar,,81215877,amaromarelali@gmail.com
+1.0,5,3,611178,1861 t,ZAMMAR,Nawal,Mohamad Azzam,06426620,70285050,nawalzammar@hotmail.com
+1.0,6,2,613073,1063 z,SALEH,Sami,Naji,,03437233,sami.ss200@outlook.com
+1.0,7,1,612564,1823 bek,ABOU RAAD,ELIE,ANDRE,,79119920,elieabouraad1@gmail.com
+1.0,7,1,612707,1799 bek,AL KHOURY,Charbel,Amer,,78985503,boulikhoury63@gmail.com
+1.0,7,1,612778,1839 bek,ASSAF,Rony,Pierre,,71076668,rony.assaf101@hotmail.com
+1.0,7,1,612779,1580 p7,ASSAF,Tony,Pierre,,76433955,word-toni@hotmail.com
+1.0,7,1,612702,1832 bek,CHAMOUN,Caren,Georges,,76143554,caren-chamoun@hotmail.com
+1.0,7,1,612655,1792 bek,EL HADDAD,Georges,Joseph,,81223468,georgesellhaddad@gmail.com
+1.0,7,1,612838,1813 bek,GABRIEL,Elio,Elie,04-981019,79168319,elioogabriel@gmail.com
+1.0,7,1,612885,1821 bek,HADCHITY,Charbel,Miled,,71729158,ch4arbel@gmail.com
+1.0,7,1,612786,1836 bek,HASROUNY,Anthony,Henry,09232104,81802886,anthonyhasrrouny8@gmail.com
+1.0,7,1,612705,1819 bek,KAII,Ramy,Antoine,,76504540,ramikai72@gmail.com
+1.0,7,1,612695,1828 bek,MALLAH,Jennifer,Georges,,76480567,mallahjennifer@gmail.com
+1.0,7,1,612783,1582 p7,MERHY,Jeffrey,Rony,09-214266,70755877,jeffrey merhey2@gmail.com
+1.0,7,1,612721,1796 bek,MORCOS,Ghady,Joseph,,70427472,ghadymorcos10@hotmail.com
+1.0,7,1,612706,1822 bek,MOUSSA,Charbel,Joseph,,76347744,cmtmoussa@gmail.com
+1.0,7,1,612925,1806 bek,SADER,Georges,Abdo,,76310622,
+1.0,7,1,612784,1795 bek,SALAMEH,Joey,Dory,09300041,76301456,salamehjoey@gmail.com
+1.0,7,1,612908,1794 bek,SALIBA,Antonio,Richard,04-871640,76306851,antonio_saliba
+1.0,7,1,612742,1847 bek,SFEIR,Christian,Fouad,,71373662,christsfeir7@icloud.com
+1.0,7,1,612780,1581 p7,SLEIMAN,Ralph,Samir,,76569065,sleimanralph0@outlook.com
+1.0,7,1,612917,1807 bek,YOUSSEF,Marcelino,Mtanios,,76494569,marcelino1_youssef@hotmail.com
+1.0,7,2,613058,1837 bek,BADER,Christopher,Miled,,03854554,christbader9@gmail.com
+1.0,7,2,613081,1622 p7,GEMAYEL,Alexandre,Georges,,76890405,alexygemayel@gmail.com
+1.0,7,2,613015,1615 p7,KHALIFE,Ralph,Badih,,70662994,ralphkhalife035@gmail.com
+1.0,7,2,613082,1842 bek,KHALIL,Ramy,Abboud,,71412983,
+1.0,7,2,613032,1824 bek,MAALOUF,Patrick,Saade,04270456,79317383,patrick.maalouf2@gmail.com
+1.0,7,4,613142,1811 bek,JALKH,Lea,Samir,,71615161,
+1.0,7,4,613127,1843 bek,SARIDAR,Ralph,George,,70386361,ralphsaridar@hotmail.com
+1.0,7,5,613152,1628 p7,HAGE,Anthony,Robert,,79147310,anthonyhaje@hotmail.com
+1.0,8,1,612674,2452 n,ABI ISSI,Elie,Georges,09620683,70759395,elieabissi@hotmail.com
+1.0,8,1,612691,2462 n,ABI KHALIL,Selena,Boutros,,71974819,
+1.0,8,1,612894,1596 p7,ABI SALEH,Georges,Youssef,,71501272,
+1.0,8,1,612571,2422 n,ABOU SEJAAN,Ricardo,Roger,09855350,71011175,ricardo.abs17@gmail.com
+1.0,8,1,612550,2345 n,ACHKAR,Elie,Roger,,76483797,
+1.0,8,1,612859,2376 n,AL KHOURY,Geovanni,Ghassan,,70315491,
+1.0,8,1,612980,2480 n,AZAR,Joelle,Razzouk,,79100085,joelle_razzouk99@outlook.com
+1.0,8,1,612678,2418 n,CHARBEL,Tatiana,Charbel,09448701,76341784,tatianacharbel99@gmail.com
+1.0,8,1,612642,2437 n,CHEKRI MORKOS,Wadih,Samir,06700052,76132016,wadihmorkos9@gmail.com
+1.0,8,1,612878,2369 n,DEAIBESS,Mhamad,Medhat,,03086647,deaibessm@gmail.com
+1.0,8,1,612700,2464 n,FADEL,Ralph,Antoine,,71080389,
+1.0,8,1,612682,2457 n,FARES,Charbel,Georges,,76045777,charbel.fares.2001@outlook.com
+1.0,8,1,612911,2361 n,HABCHY,Dimitry,Habib,,70122498,
+1.0,8,1,612679,2455 n,HAIDAR AHMAD,Sara,Atef,,70406371,sara.haidar108@gmail.com
+1.0,8,1,612752,2414 n,HAJJAR,John,Samir,,76747895,john-hajjar@hotmail.com
+1.0,8,1,612718,2466 n,HAKME,Maroun,Jean,,70497179,
+1.0,8,1,612731,2470 n,HANNA YOUNAN,Johnny,Nabil,,03153408,johnnyyounan@icloud.com
+1.0,8,1,612874,2372 n,KARKAFI,Charbel,Ziad,,76810537,
+1.0,8,1,612671,2450 n,KHNAYSSER,Elie,Mitri,09447110,70517236,khnaysser@gmail.com
+1.0,8,1,612670,2417 n,KHOUEIRY,Etienne,Boutros,09855893,71907636,etienkhoueiry@gmail.com
+1.0,8,1,612669,2449 n,MAKHOUL,Hady,Moufid,,71999874,hadi16mak@gmail.com
+1.0,8,1,612690,2461 n,MALEK,Maria,Mansour,09477057,71045218,mariamalek@gmail.com
+1.0,8,1,612657,2419 n,MATTAR,Georges,Charbel,09260923,71021524,georges.mattar1@outlook.com
+1.0,8,1,612647,2438 n,MERHEJ,Eddy,Kozhaya,,81738573,
+1.0,8,1,612789,2388 n,MOUBAYED,Carl,Roger,,71736397,carl2001moubayed@gmail.com
+1.0,8,1,612827,2391 n,MOUBAYED,Francois,Salim,,78822622,
+1.0,8,1,612792,2387 n,NASRALLAH,Nasrallah,Andre,,76119120,
+1.0,8,1,612623,2431 n,SAAB,Anthony,Sami,,76552811,
+1.0,8,1,612723,2467 n,SAWMA,Maroun,Anis,,76588827,
+1.0,8,1,612805,2401 n,SEMRANI,Youssef,Ibrahim,,78892095,
+1.0,8,1,612562,2344 n,SIOUFI,Elie,Pierre,,71088033,
+1.0,8,1,612771,2404 n,TAWK,Marie,Antonios,,76541527,
+1.0,8,1,612663,2446 n,ZGHEIB,Georges,Antoun,,76876644,
+1.0,8,1,612974,2353 n,ZGHENDY,Tia,Joseph,,81334616,
+1.0,8,2,613008,2474 n,KHOURY,Charbel,Naji,09478800,70126469,charbelkhoury99@gmail.com
+1.0,8,3,610973,1889 n,ABI WAJEH,Nataly,Hayan,,71196733,
+1.0,8,3,611169,1877 n,TANNOUS,Anthony,Kamal,06720357,71660832,anthonykt99@gmail.com
+1.0,8,5,613156,2995 p8,GHALEB,Marcelino,Michel,,03619285,marcelinoghaleb@gmail.com
+1.0,8,5,613154,4937 p,MERZA,JeanMARC,Charbel,,76493902,jmmerzaa@gmail.com
+3.0,1,1,612851,4815 p,CHAMOUN,Charbel,George,,70177436,c.chamoun1996@gmail.com
+3.0,1,1,612772,10884 f,EL BEAINY,Naji,Elias,,76026829,naji.beaini@live.com
+3.0,1,1,612906,10918 f,EL HAJJAR,Ali,Khaled,,76651543,alhajjar@gmail.com
+3.0,1,1,612753,10824 f,ZAKARIA,Celine,Daniel,01694099,71811028,Celinezakaria22@icloud.com
+3.0,1,4,613130,10909 f,MANTACH,Hussein,Ahmad,,76655832,
+4.0,1,1,612946,10851 f,ASSAKER,Charbel,Wadih,04916760,71648240,charbelassaker2009@hotmail.com
+4.0,1,1,612848,10922 f,BADER,Daniel,Abdallah,,71865376,danybader4@gmail.com
+4.0,1,1,612813,4806 p,JALLOUL,Rodrigo,Tany,,71398609,rodrigojalloul89@gmail.com
+4.0,1,1,612556,10846 f,KHALIFEH,Mohamad,Hussein,01/641428,70022028,
+4.0,1,1,612558,10844 f,MACHMOUCHI,Abdel aziz,Saad,---,70253816,
+4.0,1,1,612967,10880 f,SAKER,Mohamad,Khaled,,81298064,
+4.0,1,1,612790,10821 f,ZGHEIB,Marc,Bassam,05450080,71338118,zgheibmarc7@gmail.com
+4.0,1,2,613075,4916 p,ABDUL HAMID,Kammoun,Fouad,,81768778,afk1976@gmail.com
+4.0,1,2,606932,9034 f,AYOUB,Elias,Abdo,,76162409,
+4.0,1,2,612967,10880 f,SAKER,Mohamad,Khaled,,81298064,
+4.0,1,3,602470,7922 f,ANTOUN,Elie,Issam,,03527302,elieantoun@hotmail.com
+5.0,1,1,612913,10857 f,ABDALLAH,Mounir,Khaled,01706003,71552654,abdallahhala@gmail.com
+5.0,1,1,612900,10856 f,AFFAN,Ziad,Riad,06880664,76384948,
+5.0,1,1,612849,4814 p,HAMIEH,Roua,Ihab,01315151,03520000,roua.hamieh@hotmail.com
+5.0,1,1,612553,4726 p,TAKAJI,Khodor,Mohammad,70/765665,03111839,kajek@outlook.com
+5.0,1,2,613072,10911 f,SAMAHA,Antoine,Nicolas,01215851,03144554,antoine.samaha@01barmaja.com
+5.0,1,4,611806,10637 f,MADDAH,Makram,Rabah,07/720228,71508227,makramrmaddah9@gmail.com
+6.0,1,1,612720,10830 f,ABDALLAH,Pierre,Marwan,,76941247,pierre.abdallah123@gmail.com
+6.0,1,1,612916,10916 f,APKAR,Sarkis,Hagop,,70575938,sarkisapkar2000@gmail.com
+6.0,1,1,612943,10852 f,ATALLAH,Joe Mickel,Robert,,76394385,
+6.0,1,1,612698,10894 f,BOU JABBOUR,Paul,Atallah,01290244,76515387,pauljabbour3@gmail.com
+6.0,1,1,612635,10839 f,DAOUK,Karim,Ahmad,01-651801,81758673,daoukkarim70@gmail.com
+6.0,1,1,612619,10905 f,JABER,Mohamad,Ahmad,,81817530,mohamadjabrr2001@gmail.com
+6.0,1,1,612616,10906 f,NASSER,Ali,Mouhammad,,78987312,alyxnr11@gmail.com
+6.0,1,1,612944,10915 f,RACHED,Jean,Charbel,01481784,71581881,john.rached@hotmail.com
+6.0,1,1,612717,10832 f,RIZK,Georgio,Elias,,71114303,georgiorizk001@gmail.com
+6.0,1,1,612544,10964 f,SAYDE,Antoine,Elias,71/820233,76312156,saydeantoine@gmail.com
+6.0,1,1,612727,10828 f,TAWK,Jamil,Boulas,,71899213,jtawk2001@gmail.com
+6.0,7,1,612808,1838 bek,AL ALAM,Ghady,Wajih,04-288859,71839294,
+6.0,7,1,612653,1835 bek,AL KARA,Alain,Adrian,,71664437,alain.kara2001@gmail.com
+6.0,7,1,612744,1840 bek,BARRAK,Jason,Miled,04919905,76137817,jason-barrak@hotmail.com
+6.0,7,1,612834,1589 p7,EL TOM,Fredy,Tony,,76494422,tonytom11@yahoo.com
+6.0,7,1,612924,1817 bek,MAALOUF,Anthony,Georges,01328582,71072014,antomalf@hotmail.com
+6.0,7,1,612704,1565 p7,SABA,Christopher,Rabih,,03605401,sabachris2@gmail.com
+6.0,7,1,612703,1800 bek,SARKISS,Christian,Youssef,,03125128,christiansarkiss@gmail.com
+6.0,7,1,612938,1606 p7,SEBAALY,Charbel,Georges,04983711,71911994,charbelsebaaly635@icloud.com
+6.0,7,1,612921,1845 bek,SUCCAR,Joe,Antoine,,71041363,Joe.succar@yahoo.com
+6.0,7,3,609284,1516 bek,AL NASR,Malek,Fouad,,71038442,malek-nasr@hotmail.com
+6.0,7,3,610371,1581 bek,ZOGHBI,Georges,Elie,,76959583,Grgzoghby@gmail.com
+6.0,8,1,612661,2444 n,ABI YOUNES,Elias,Boulos,,76043023,
+6.0,8,1,612841,2380 n,AMM,Charbel,Zakhia,,70956352,
+6.0,8,1,612768,2405 n,BASTAJIAN,Ange,Harouthioun,,70903457,
+6.0,8,1,612831,2383 n,BEJJANI,Noella,Rachid,09780617,81633319,bejjaninoella@gmail.com
+6.0,8,1,612804,2395 n,CHALFOUN,Roudy,Jean,,81357148,
+6.0,8,1,612763,2406 n,EL AMMAR,Paul,Maurice,,70922977,
+6.0,8,1,612767,2407 n,EL KADI,Mathieu,Emile,,79164695,
+6.0,8,1,612612,2427 n,GHAZAL,Nicolas,Sobhi,,71795982,Nicolas.ghazal@isae.edu.lb
+6.0,8,1,612626,2433 n,HAIDAR,Elie,Georges,,71602771,
+6.0,8,1,612667,2447 n,HAIDAR AHMAD,Walid,Nahdat,,78994643,
+6.0,8,1,612574,2423 n,HANNA,Chakib,Tony,09795559,03006790,chakib.hanna.1@gmail.com
+6.0,8,1,612662,2445 n,KARAM,Charbel,Fouad,,70865800,
+6.0,8,1,612749,2416 n,KARAM,Charbel,Joseph,,71832159,charbel1krm@gmail.com
+6.0,8,1,612781,2390 n,KHALIFE,Nasr,Talal,09622074,76321510,nasr_khalife@outlook.com
+6.0,8,1,612639,2436 n,KHOURY,Elias,Wissam,,70630110,
+6.0,8,1,612676,2454 n,KREIDY,Edouard,Georges,,76529637,eddy.3.10.2001@gmail.com
+6.0,8,1,612672,2451 n,MERHEJ,Charbel,Merched,,71917386,
+6.0,8,1,612928,2358 n,MOARBES,Ghassan,Jean,,70751216,
+6.0,8,1,612624,2432 n,NASSOUR,Tatiana,Daniel,,71787081,
+6.0,8,1,612611,2426 n,SALAMEH,Ghady,Charbel,,71813213,
+6.0,8,1,612658,2442 n,SASSINE,Pierre,Charbel,,70446830,
+6.0,8,2,613030,2485 n,BOU SAAD,Charbel,Georges,,70554466,c-b-s-82@hotmail.com
+6.0,8,2,607770,1154 n,EL RAHI,Nicole,Zakhia,,70852991,nicolelrahi@gmail.com
+6.0,8,2,612626,2433 n,HAIDAR,Elie,Georges,,71602771,
+6.0,8,3,607770,1154 n,EL RAHI,Nicole,Zakhia,,70852991,nicolelrahi@gmail.com
+6.0,8,3,611301,2008 n,HABIB,Chadi,Fadi,09622414,71711004,chadihabib1960@gmail.com
+6.0,8,3,610010,1776 n,MATTAR,Patrick,Estephan,,70233669,Patrick.mattar@isae.edu.lb
+11.0,1,1,612733,10827 f,AL ACHKAR,Perla,Antoine,05768013,71253171,perlaalachkar@hotmail.com
+11.0,1,1,612609,10842 f,CHAMMAS,Guy,Jean,05-941492,78916299,Guychammas16@gmail.com
+11.0,1,1,612754,10823 f,DOUMANI,Karen,Kamil,06691660,81235993,
+11.0,1,1,612666,10835 f,EL HABBAS,Karim,Salem,05806300,03667094,kaim.h2001@hotmail.com
+11.0,1,1,612602,10908 f,EL KHOURY,Joe,Najib,05467761,81686122,joe.khou77@gmail.com
+11.0,1,1,612857,10920 f,GHANDOUR,Lynn,Nicolas,05940199,76894927,lyno_2001@hotmail.com
+11.0,1,1,612858,10919 f,HADDAD,Charbel,Charles,,71842853,charbel.126@HOTMAIL.COM
+11.0,1,1,612856,10921 f,HALAWI,Elie ghandour,Souheil,05400899,71516706,elie.halawi@gmail.com
+11.0,1,1,612809,4804 p,ISSA,Ali,Akil,,76150863,ali17issa@gmail.com
+11.0,1,1,612820,10853 f,KANJ,Mohamad,Nasser,,76789509,mohamdkanj65@gmail.com
+11.0,1,1,612732,10891 f,KARAM,Ramy,Chahine,05433786,71461521,ranykaram8@icloud.com
+11.0,1,1,612734,4777 p,MARWAN,Assaly,Hamze,,81276451,moroassaly633@gmail.com
+11.0,1,1,612983,1613 p7,RALPH,Sassine,Roger,04-710487,71026540,ralph.sassine@hotmail.com
+11.0,1,1,612641,10837 f,RAMADANE,Mohammad,Ahmad,05480272,70385399,mohammad.ramadane@outlook.com
+11.0,1,1,612686,10896 f,SABER,Yara,Michel,05450267,70618243,yarasaber1912@gmail.com
+11.0,1,1,612699,10862 f,SEIF,Aldo,Edward,01902806,71062772,aldoseif2001@hotmail.com
+11.0,1,1,612796,10928 f,WEHBE,Jad,Ali,05401237,71567748,jad.wehbe@hotmail.com
+11.0,1,1,612747,10889 f,YOUNES,Hussein,Mohamed,0155756,76073440,husseinyounes3@gmail.com
+11.0,1,2,613005,10850 f,AOUN,Nadim,Antoine,09218753,76666383,nadimeaoun2@gmail.com
+11.0,1,2,613018,10912 f,KHARRAT,Zeina,Moustafa jamal,05802454,03097030,
+11.0,1,2,613060,10978 f,SAYLAMI,Maria,Moussa,01877813,81755722,
+11.0,1,3,606377,9244 f,SEIFELDINE,Mohammad,Ahmad,,76677819,Sdmohamad430@gmail.com
+11.0,3,1,612844,798 bak,AL CHAMAA,Jana,Ghassan,*****,81916843,jana26101998@gmail.com
+11.0,3,1,612549,796 bak,HAYDER ,Dayan,Jihad,************,71333591,Dayanhayder@gmail.com
+11.0,3,1,612664,793 bak,KIWAN,Nathalie,Fadi,05/330372,71099836,nathaliekiwan12@gmail.com
+11.0,3,1,612551,794 bak,MOUSSALLEM,Karine,Gabriel,************,76407626,karine.moussallem@hotmail.com
+11.0,3,1,612665,792 bak,SLIM,Sirine,Nabil,,76349891,sirineslim18@gmail.com
+11.0,3,2,612549,796 bak,HAYDER ,Dayan,Jihad,************,71333591,Dayanhayder@gmail.com
+11.0,4,1,612711,1174 baal,AWADA,Reina,Mohamad,,70365899,
+11.0,4,1,612546,1165 baal,BADRA,Mohammad,Houssein,,70562801,
+11.0,4,1,612931,1176 baal,NASR,Jean Claude,Antoun,08/325654,03325956,
+11.0,4,1,612948,1162 baal,SALHAB,Ali,Hisham,,70685437,
+11.0,4,1,612949,1161 baal,SIBLANI,Zeinab,Ali,,81112801,
+11.0,4,2,612546,1165 baal,BADRA,Mohammad,Houssein,,70562801,
+11.0,4,3,610432,1071 baal,ACHAAL,Kawthar,Husni,08-345570,71234784,
+11.0,4,3,610402,1070 baal,MASSRY,Fatima,Abbass,,71517479,
+11.0,4,4,613133,612 p4,AYOUB,Nour Al Houda,Ghazi,,76412260,
+11.0,4,4,613145,1192 baal,ELHUSSEINI,Zeinab,Ahmad,,70197139,
+11.0,4,4,613135,1187 baal,NOUN,Firas,Hamzah,,70191045,
+11.0,4,4,613144,1191 baal,SIBLANI,Mirna,Hicham,,70671336,
+11.0,4,4,613136,1184 baal,ZAITER,Rim,Melin,,03442337,Rimzaidr@gmail.com
+11.0,5,1,612930,1925 t,ABBOUD,Najeh,Naser,,81287658,
+11.0,5,1,612589,1943 t,AL ZOEBI,Nassim,Bakkar,06-624862,76464070,
+11.0,5,1,612985,1950 t,AL-BOUSTANI,Charbel,Antonios,,81240251,
+11.0,5,1,612787,1934 t,AWEEK,Mouhamad,Samir,,70659170,
+11.0,5,1,612596,1941 t,CHOUMANE,Darine,Khaled,,71316087,
+11.0,5,1,612756,1935 t,GITANY,Antonios,Semaan,,70911635,jitaniantonios@gmail.com
+11.0,5,1,612973,1672 p5,HOUSSEIN,Abdel Karim,Ahmad,,70299247,
+11.0,5,1,612568,1945 t,SALEH,Mazen,Khaled,,76392300,
+11.0,5,1,612876,1931 t,SALEH MOUSSA,Jana,Walid,06-445808,71074755,
+11.0,5,2,613034,1679 p5,SARMOUT,Jinane,Mouhamad Kamel,06-426395,76308763,
+11.0,6,1,612830,1059 z,BECHELANY,Elias,Jean,,70344596,
+11.0,6,1,612884,535 p6,HANNA,Daneilla,Tony,,71889371,
+11.0,6,1,612800,1072 z,NASSAR,Peter,Issam,08810400,71087931,
+11.0,6,1,612803,1069 z,TANNOURY,Georges,Elias,,76395749,
+11.0,6,1,612801,1060 z,TANNOURY,Maroun,Georges,08809817,71809811,
+11.0,6,2,612800,1072 z,NASSAR,Peter,Issam,08810400,71087931,
+11.0,6,2,612801,1060 z,TANNOURY,Maroun,Georges,08809817,71809811,
+11.0,7,1,612970,1609 p7,ABOU JAOUDE,Charbel,Elias,,71849228,charbelaj00@gmail.com
+11.0,7,1,612966,1818 bek,ABOU JAOUDE,Joanna,Boutros,04 860394,71902081,joannaaj2000@gmail.com
+11.0,7,1,612853,1812 bek,AZAR,Abdo,Charbel,,76323745,abdoazar161@gmail.com
+11.0,7,1,612845,1591 p7,BEAINO,Antoine,Fady,09-236214,71964414,Anthonybeaino3@gmail.com
+11.0,7,1,612740,1825 bek,BERKACHY,Juliana,Pierre,,76498711,
+11.0,7,1,612741,1826 bek,BERKACHY,Mireille,Fadi,,81924655,mireillefberkachy@hotmail.com
+11.0,7,1,612631,1557 p7,DAGHER,Joe,Kamel,,71409039,
+11.0,7,1,612852,1815 bek,DAHER,Roy,Nadim,,78888250,roydaher74@gmail.com
+11.0,7,1,612561,1810 bek,EL AYA,Theresa,Fadi,04 820160,76388171,theresa.elaya@gmail.com
+11.0,7,1,612960,1829 bek,EL HELOU,Murielle,Daniel,,81019153,murahelou.17@gmail.com
+11.0,7,1,612555,1551 p7,EL KHOURY,Eliane,Boutros,04 543976,70336172,elianekhoury@outlook.com
+11.0,7,1,612701,1834 bek,EL MURR,Catherine,Geriges,04296240,76310670,
+11.0,7,1,612905,1598 p7,GEMAYEL,Gwadaloupe,Michel,,71733257,gwada-gemayel@hotmail.com
+11.0,7,1,612807,1827 bek,GHOUSSOUB,Sandy,Adel,,03234391,sandyghoussoub@gmail.com
+11.0,7,1,612895,1802 bek,HACHEM,Rita Lynn,Jean,,71638138,
+11.0,7,1,612912,1600 p7,HAJJ,Takla,Francois,,70159021,
+11.0,7,1,612777,1816 bek,HANNA,Charbel,Wissam,04922330,76869932,bettohanna@gmail.com
+11.0,7,1,612726,1571 p7,HAROUNY,Charbel,Fouad,,79158890,charbel-harouny@hotmail.com
+11.0,7,1,612977,1793 bek,JALKH,Clara,Elias,04-981176,70725885,clarajalkh.cj@gmail.com
+11.0,7,1,612982,1612 p7,KHODOR,Amine,Ghassan,01-888285,71385388,
+11.0,7,1,612563,1808 bek,MEZHER,Maroun,ABDO,,70424510,MAROUNMEZHER88@GMAIL.COM
+11.0,7,1,612746,1577 p7,NASR,Raghida,Eid,,03472994,raghida.nasr99@gmail.com
+11.0,7,1,612728,1572 p7,NICOLAS,Paul,Raymond,,03149560,paulinoss@hotmail.com
+11.0,7,1,612833,1833 bek,SFEIR,Abir,Maroun,09322034,71153328,
+11.0,7,1,612560,1809 bek,YAACOUB,Nicolas,Samir,,70424505,nicolayaacoub@gmail.com
+11.0,7,1,612811,1846 bek,YARED,Christian,Elias,,78848951,
+11.0,7,2,613071,1621 p7,BOULOS,Charbel,Hicham,,03524116,charbelboulos9@gmailcom
+11.0,7,2,612491,1789 bek,EL MURR,Tracey,Pierre,04295599,79100870,ivyy666@outlook.com
+11.0,7,2,613061,1801 bek,FARES,Marguerita,Fadi,,71003493,margot_fares@hotmail.com
+11.0,7,2,613035,1804 bek,SADAKA,Cynthia,Farhat,04 980383,81727261,cynthiasadaka99@gmail.com
+11.0,7,3,611103,1677 bek,CHIDIAC,Reine,Rouhana,,76153746,reinechidiac7@gmail.com
+11.0,7,3,612491,1789 bek,EL MURR,Tracey,Pierre,04295599,79100870,ivyy666@outlook.com
+11.0,7,3,613061,1801 bek,FARES,Marguerita,Fadi,,71003493,margot_fares@hotmail.com
+11.0,7,3,611941,1751 bek,NASR,Christelle,Amine,04540745,71380491,christelle.nasr@live.com
+11.0,7,4,613140,1844 bek,SEMAAN,Rouba,Jamil,,71751051,roubasemaan87@gmail.com
+11.0,8,1,612760,2413 n,ABOU HANNA,Joseph,Charbel,,71436210,
+11.0,8,1,612918,2362 n,AL BOUERY,Mosleh,Miled,,70179344,Moslehbouery@gmail.com
+11.0,8,1,612836,2364 n,AL KHOURY,Joe,Georges,09448507,71388392,joealkhoury123.@gmail.com
+11.0,8,1,612866,2363 n,ANDRAOS,Tia-maria,Chaker,,76548501,tiamariaandraos36@gmail.com
+11.0,8,1,612654,2440 n,AOUN,Marise,Ghassan,,03257004,
+11.0,8,1,612843,2378 n,ASSAF,Georges,Boutros,,71034535,
+11.0,8,1,612825,2392 n,AWAD,Roland,Tony,,03084000,
+11.0,8,1,612750,2415 n,BITAR,Jean paul,Jean,,76068608,
+11.0,8,1,612798,2385 n,BOU MAACHAR,Emilio,Toni,,76346166,
+11.0,8,1,612901,2360 n,BTEICH,Anthony,Boulos,09214706,78601226,abthonypb2000@hotmail.com
+11.0,8,1,612883,2367 n,CHAHINE,Andrew,Jamil,,70540147,
+11.0,8,1,612969,2354 n,CHEDID,Georgio,Monzer,,71028738,
+11.0,8,1,612810,2399 n,CHIDIAC,Adel,Charbel,,71651083,
+11.0,8,1,612899,2479 n,CHLELA,Elie,Maroun,,71840141,elias.chlela.16@gmail.com
+11.0,8,1,612689,2460 n,EL AKIKI,Rita,Elias,,70133186,
+11.0,8,1,612829,2384 n,EL ATRACH,Catherine,Osman,,76933310,caty.elattrash@gamil.com
+11.0,8,1,612775,2402 n,EL HAJJ CHAMAS,Zainab,Chakib,,78804593,
+11.0,8,1,612739,2408 n,EL HOWAYEK,Rebecca,Toufic,,71509101,
+11.0,8,1,612840,2381 n,EL KHAWAND,Joy,Bassam,09540546,81346755,joy_khawand@hotmail.com
+11.0,8,1,612939,2356 n,FARAH,Angy,Jihad,,71613269,
+11.0,8,1,612793,2386 n,GERMANOS,Maureine,Marwan,,70534230,
+11.0,8,1,612668,2410 n,GHOSBAN,Jana,Hanna,,70462537,
+11.0,8,1,612842,2379 n,GHOSH,Yara,Charles,,81399286,
+11.0,8,1,612738,2411 n,HADDAD,Youssef,Bassam,,71786293,
+11.0,8,1,612867,2374 n,HAGE,Mhammad,Haysam,,76514582,
+11.0,8,1,612869,2373 n,HANNA,Christina,Hanna,,76344598,
+11.0,8,1,612964,2484 n,IBRAHIM,Charbel,Fadi,,71473304,charbelibrahim@icloud.com
+11.0,8,1,612920,2359 n,IBRAHIM,Rita,Philippe,09620860,71677623,ritaibrahim671@gmail.com
+11.0,8,1,612575,2424 n,JAMOUS,Elio,Richard,,76029620,eliojamous1@gmail.com
+11.0,8,1,612932,2357 n,KHOUEIRY,Maria,Germanos,,70147776,
+11.0,8,1,612832,2338 n,KOSSEIFI,Charbel,Marwan,09540670,81232856,ckosseifi902@gmail.com
+11.0,8,1,612994,2350 n,KOUBRIANOS,Georges,Charbel,,70788944,
+11.0,8,1,612806,2400 n,LTEIF,Sandy,Edward,,71002578,sandylteif@HOTMAIL.COM
+11.0,8,1,612822,2393 n,MAAROUF,Elio,Saleh,,76356520,
+11.0,8,1,612875,2370 n,MATTAR,Viviane,Elias,,70659255,viviakiki@gmail.com
+11.0,8,1,612683,2409 n,MCHANTAF,Lynn,Ihsan,09856575,71745220,mchantaflynn@gmail.com
+11.0,8,1,612649,2439 n,NAKHOUL,Mariane,Jean,,81231921,
+11.0,8,1,612815,2397 n,SAADE,Marilyne,Charbel,,71040541,
+11.0,8,1,612839,2382 n,SAKR,Marc,Boutros,,81251390,marcsakr048@gmail.com
+11.0,8,1,612633,2435 n,SALAMEH,Joseph,Samir,,81834588,
+11.0,8,1,612782,2389 n,SALAMEH,Joseph,Hanna,09231901,81231901,josephsalameh14@gmail.com
+11.0,8,1,612743,2471 n,SEMAAN,Gaelle,Charbel,,76479325,
+11.0,8,1,612817,2398 n,SFEIR,Roy,Tanios,,78948291,
+11.0,8,1,612814,2396 n,SOUAID,Christelle,Michel,,71211073,
+11.0,8,1,612545,2346 n,ZGHEIB,Nadim,Sam,,81234159,nadimm@gmail.com
+11.0,8,2,613053,2341 n,ABOU RJEILY,Ralph,Estephant,09796039,70943507,ralph.aoun.r@gmail.com
+11.0,8,2,613013,2348 n,DAHER,Roy,Khalil,,76868830,
+11.0,8,2,613084,2488 n,HAJJ ASSAF,Elie,Michel,,76512602,elie.h.a@hotmail.com
+11.0,8,2,613019,2347 n,HALLAK,Maria,Georges,,76150229,
+11.0,8,2,613054,2342 n,KARAM,Sandra,Maurice,09797165,79199049,sandra.karam12@gmail.com
+11.0,8,2,613025,2487 n,KEYROUZ,Teddy,Keyrouz,,76014045,teddy-keyrouz@live.com
+11.0,8,2,613012,2349 n,MATTA,Elissa,Hady,,76526865,
+11.0,8,2,613065,2475 n,MOUANNES,Joseph,Georges,09223926,70396926,zouzou-mouannes@hotmail.com
+11.0,8,2,613040,2486 n,OBEID,Lara,Khalil,09920657,76999421,laraobeid001@gmail.com
+11.0,8,2,613017,2478 n,SASSINE,Georgio,Anthonios,,70752496,
+11.0,8,4,613132,2992 p8,AKIKI,Charbel,Georges,,71542872,akikicharbel263@gmail.com
+11.0,8,4,613141,2994 p8,AZZI,Beatrice,Bassam,09477668,71862370,bea-azzi@hotmail.com
+11.0,8,4,613117,2989 p8,FREM,Ray,Roger,,03037553,roy.frem90@gmail.com
+11.0,8,4,613129,2991 p8,RIZK,Gaia,Youssef,01613404,71036207,gaiayrizk@gmail.com
+11.0,8,5,613157,2996 p8,CHEDID,Andrea,Emile,09445909,70490400,chedidandrea@gmail.com
+14.0,1,1,612692,4760 p,ACHKAR,Jhony,Naim,25462558,70536127,abouljoun1999@gmail.com
+14.0,1,1,612677,4758 p,AMM,Charbel,Zakaria,78870607,70956352,
+14.0,1,1,612648,10899 f,HARB,Joya,Milad,,70300041,joyaharb01@hotmail.com
+14.0,1,1,612610,10841 f,ZIADE,Rudy,William,09-210861,03184351,rudy.zi@hotmail.com
+14.0,1,2,610995,10369 f,AWAD,Elia,Antoine,01/487703,71037220,elia.t.awad@gmail.com
+14.0,1,2,613002,10967 f,IBARAHIM,Philippe,Charbel,07727207,76695588,
+14.0,6,1,612708,4765 p,SAWAYA,Wael,Antoine,08-540037,03146719,waelsawaya315@hotmail.com
+14.0,8,3,612428,2336 n,KOZAH,Gilbert,Pierre,04723307,03526856,gilbert-kozah-12@hotmail.com
+29.0,1,1,612765,10886 f,AL AWAR,Chadi,Kamal,,71632377,Shadiawar532@gmail.com
+29.0,1,1,612615,10907 f,AL HAYEK,Imad,Pierre,,03653409,imadhayekk@hotmai.com
+29.0,1,1,612554,10847 f,BOU KHALIL,Jennifer,Charbel,05/769271,76469391,jenniferboukhalil1@gmail.com
+29.0,1,1,612915,4843 p,CHOUEIKH,Mirna,Ahmad,,71975201,
+29.0,1,1,612719,10831 f,EL GHARIB,Ghassan,Michel,01380419,71506580,gharibghassan01@gmail.com
+29.0,1,1,612725,10829 f,GERGES,Maria,Gerges,,70392842,mariagergess15@gmail.com
+29.0,1,1,600989,455 p,HAMDANE,Houssein,Ali,,,
+29.0,1,1,612696,10834 f,IBRAHIM,Sara,Mohamad,70560088,76959524,saraibrahim158@hotmail.com
+29.0,1,1,612646,10900 f,LOUTFI,Cynthia,Tamer,,78828384,Cynthialoutfi3@gmail.com
+29.0,1,1,612879,10965 f,MESLMANI,Houssein,Ali,,81252931,housseinbbe@gmail.com
+29.0,1,1,612766,10885 f,ZEAYTER,Fatima,Assad,,76067327,fatimazeayter4@gmail.com
+29.0,1,2,603271,8482 f,ABI KHALIL,Mike,Samir,,70330323,Abikhalil.mike@gmail.com
+29.0,1,2,611071,10428 f,AKIL,Hassan,Mohamad,01/399319,70998852,hassanakil777@gmail.com
+29.0,1,2,610891,10437 f,AL KAZZI,Mark,Michel,05/600929,76491232,marcazzi98@gmail.com
+29.0,1,2,608566,9507 f,AL MONJED,Layal,Bassem,,76767569,layal-monjed@hotmail.com
+29.0,1,2,612996,10934 f,ALWIEH,Hadi,Rifaat,,76411877,hadialawieh54@gmail.com
+29.0,1,2,611237,10404 f,FERZLY,Patrick,Joseph,01/381661,71488878,patrick-ferzly-99@hotmail.com
+29.0,1,2,605805,8731 f,HAYEK,Ahmad,Mohamad,,70840622,ahmadhayek89@gmail.com
+29.0,1,2,611205,10408 f,MATAR,Charbel,Habib,01/241230,76135425,charbel.matar@live.com
+29.0,1,2,610950,10442 f,MERHEB,Alain,Ghassan,05/943657,70794146,merhebalain@hotmail.com
+29.0,1,3,612996,10934 f,ALWIEH,Hadi,Rifaat,,76411877,hadialawieh54@gmail.com
+29.0,1,3,607590,1381 bek,ASSI,Sandy,Moussa,,71162848,sandyassi25@gmail.com
+29.0,1,3,608006,9583 f,EL SABEH,Ahmad,Abdellatif,70147655,70147655,
+29.0,1,3,609229,9871 f,MOHTAR,Sami,Ibrahim,,70687181,samimohtar@hotmail.com
+29.0,1,3,612860,10864 f,OUEIDAT,Ali,Ahmad darwich,,76887567,alioueidat123@gmail.com
+29.0,1,4,611454,10382 f,TRAC,Elias,Antoine,03102808,70278565,Elias_Trac@hotmail.com
+29.0,3,1,612965,797 bak,GHOUBAR,Said,Mashhour,07830962,71486068,
+29.0,3,1,612613,795 bak,SAFI,Nour,Nader,71/565967,70023197,Nour.safi002@gmail.com
+29.0,3,3,606588,682 bak,EL DAHOUK,Sandra,Hussein,,79128474,sandra_dah95@hotmail.com
+29.0,3,3,608205,702 bak,FAYAD,Marwa,Rodwan,,70969302,Marwa.fayad@isae.edu.lb
+29.0,4,1,612795,1175 baal,AL HAJ DIAB ,Rafic,Mouhammad,08/330695,76450567,
+29.0,4,1,612543,1164 baal,DROUBI,Ali,Houssein,,76919514,
+29.0,4,1,612902,597 p4,MAZLOUM,Alaa,Mohammad,,70621337,
+29.0,4,1,612816,1190 baal,MCHEIK,Samer,Ali,08-375051,70314860,
+29.0,4,1,612559,1188 baal,NOUN,Ali,Wissam,,76091595,
+29.0,4,1,612710,1173 baal,RIFAI,Khaled,Hisham,08/376416,71004046,
+29.0,4,2,611956,1129 baal,ABBAS,Haidar,Ibrahim,,78996323,
+29.0,4,2,610927,1101 baal,KANSOH,Houssein,Haytham,08-201850,79114755,
+29.0,4,2,613003,1178 baal,MAHFOUZ,Mouhammad,Hani,08200880,71828880,
+29.0,4,2,613055,1180 baal,SAKER,Mohamad,Ali,,03471952,
+29.0,4,4,613120,1189 baal,FARHAT,Hassan,Naser,,76891916,
+29.0,4,4,612548,1163 baal,YAZBECK,Mohammad Ibrahim,Hassan,08/371615,81736797,
+29.0,4,4,613121,1181 baal,ZIZ,Lilianne,Abdou,08/911765,71344073,
+29.0,5,1,612572,1924 t,AKKARI,Youssof,Mohamad Anwar,06381146,71382862,
+29.0,5,1,612638,1921 t,AL SAHMARANY,Taha,Khaldoun,393401,71855815,
+29.0,5,1,612984,1673 p5,AL-NAZER,Augustina,Souheil,06933507,03899161,
+29.0,5,1,612914,1929 t,ARAJ,Farah,Mouhamad,,81228781,
+29.0,5,1,612637,1940 t,DANDACHI,Mostafa,Assaad,,76113933,
+29.0,5,1,612576,1919 t,IBRAHIM,Youssef,Wissam,06835716,03523809,
+29.0,5,1,612770,1920 t,MRAD,Mohamad,Jamal,,03582541,
+29.0,5,2,610961,1864 t,JNAD,Jihad,Hassan,,79146980,jehadjnad1@gmail.com
+29.0,5,3,612104,1900 t,AL-CHAABAN,Riham,Radwan,,76002144,
+29.0,5,3,611993,1898 t,METLEJ,Alaa,Jihad,06434557,71115450,
+29.0,5,3,610910,1871 t,ZAYLAA,Ahmad,Mouhammad hatem,76412105,76412105,
+29.0,6,1,612881,534 p6,KHAZZAKA,Elissa,Tanios,08/544990,71514644,
+29.0,6,2,610835,1019 z,ABDEL AHAD,Bassel,Ata,08/818368,70899113,basselabdelahad@icloud.com
+29.0,6,2,610504,993 z,ABOU HAMDAN,Fatima,Mouhamad,08/800788,76470213,fatimaabohamdan@hotmail.com
+29.0,6,2,612500,1055 z,FARAJ,Antonios,Milad,,71325955,a
+29.0,6,2,611462,1030 z,SAHILY,Ali,Mouhamad,08/925511,71157262,a
+29.0,6,2,602540,808 z,SALAMEH,Najib,Ibrahim,71888342,76856285,najib.salameh.civil@hotmail.com
+29.0,6,2,609732,953 z,SAYED MOURTADA,Mirna,Rabih,,78964912,Mirnarabihmourtada@outlook.com
+29.0,6,3,609732,953 z,SAYED MOURTADA,Mirna,Rabih,,78964912,Mirnarabihmourtada@outlook.com
+29.0,7,1,612886,1814 bek,ABOU CHAHINE,Nour,Charbel,,71024012,nourabouchahine1@icloud.com
+29.0,7,1,612650,1831 bek,BOU KHALIL,Theresia,Michel,05 769410,70579784,theresia.bk@gmail.com
+29.0,7,1,612724,1797 bek,FARES,Mary,Sami,04543964,71181244,
+29.0,7,1,612794,1798 bek,MATTAR,Joelle,Massoud,,71835343,joeymattar1@icloud.com
+29.0,7,1,612617,1830 bek,SFEIR,Elias,Adel,,76714613,eliassfeir@hotmail.com
+29.0,7,2,602057,970 bek,ABOU CHABKE,Andrew,Samir,,70232465,andrew.abouchabke@hotmail.com
+29.0,7,3,602057,970 bek,ABOU CHABKE,Andrew,Samir,,70232465,andrew.abouchabke@hotmail.com
+29.0,7,3,612020,1776 bek,KOZYKOJOKIAN,Johnny,Sarkis,01899142,76395397,johnnykosy@gmail.com
+29.0,7,4,613131,1625 p7,SALIM,Joelle,Tony,,81288949,
+29.0,8,1,612963,2481 n,AWAD,Adriana,Chahid,,71811798,adriana.awad2@gmail.com
+29.0,8,1,612955,2477 n,AWAD,Christine,Ali,71946775,71946775,
+29.0,8,1,612659,2443 n,BASSIL,Charbel,Kabalan,,71000695,
+29.0,8,1,612688,2459 n,CHDID,Anthony,Chalita,09446204,71120520,anthonychdid1@gmail.com
+29.0,8,1,612907,2365 n,EL HAJJ,Jennifer,Bakhos,,71026664,Jenniferelhage26@gmail.com
+29.0,8,1,612630,2434 n,GHAITH,Marc,Mounir,,71055763,
+29.0,8,1,612618,2428 n,TAWK,Christelle,Raymond,09446204,79110253,
+29.0,8,2,613063,2339 n,DAHER,Helena,BOTROUS,,70304562,helenadaher963@gmail.com
+29.0,8,2,613046,2482 n,FAHED,Pamela,Adel,,76963418,
+29.0,8,3,609155,1431 n,EL KHOURY HANNA,Maurice,Ghandy,,70249932,Mauricekhoury96@gmail.com
+29.0,8,3,608979,1521 n,HANNA,Ralph,Roukoz,,76729225,ralph.hanna@outlook.com
+29.0,8,3,604557,597 n,MOURANY,Tony,Saba,,03145587,mourany@outlook.com
+29.0,8,3,608912,1441 n,SARKIS,Walid,Raymond,,71627985,sarkiswalid@icloud.com
+29.0,8,3,608321,1087 n,ZEILAH,Georges,Mansour,,71938161,zeilah.georges@gmail.com
+29.0,8,4,608849,1481 n,ABI HANNA,Raoul,Gergi,,76481509,raoulabihanna@hotmail.com
+29.0,8,5,613159,2997 p8,HADDAD,Marianne,Mitri,,81798112,haddad.marianne.23@gmail.com
+31.0,1,1,612557,10845 f,ABOU HAWILI,Omar,Nidal,---,03803045,
+31.0,1,1,612828,10925 f,JALKH,Raghida,Ghassan,01874902,76611915,raghida.jalkh01@gmail.com
+31.0,1,1,612645,10901 f,KARAM,Marilyne,Simon,,78803611,marilyneK_Karam@hotmail.com
+31.0,1,1,612892,4834 p,SARKIS,Ghiwa,Salem,01888130,76395723,ghiwa.ssarkis@gmail.com
+31.0,1,3,611526,10462 f,EL GHARLI,Said,Mohammed,76/460453,03174903,saiidalg@hotmail.com
+31.0,1,4,613126,4930 p,RAMADAN,Ramadan,Mohamad,,71063364,RAMADANAMIR.95@hotmail.com
+31.0,5,1,612872,1932 t,AL HAJ,Mouhamad,Ahmad,06-386315,81279581,midohaj57@gmail.com
+32.0,1,1,612797,10927 f,AL ZAIM,Samy,Mohamad,01664121,81947994,samy.zaim.96@gmail.com
+32.0,1,1,612941,10953 f,ALAMEH,Adnan,Bilal,01542200,76024117,adnanalameh0404@gmail.com
+32.0,1,1,612909,10917 f,ASSAF,Jeryes,Najib,,70733235,joujou1assaf@gmail.com
+32.0,1,1,612952,10914 f,CHAMI,Zoulfikar,Moussa,,70346473,chami.z2001@gmail.com
+32.0,1,1,612652,10898 f,CHAMOUN,Patrick,Pierre,,70021348,patrickchamoun21@gmail.com
+32.0,1,1,612651,10836 f,EL KHATIB,Mahmoud,Kotayba,07974101,71792271,mahmoud.khatib123@hotmail.com
+32.0,1,1,612877,10854 f,HADDAD,Rawane,Emile,01284425,71519294,rawane.haddad01@gmail.com
+32.0,1,1,612673,10897 f,HAYDAR AHMAD,Hassan,Ali,01278567,78853569,hassanhaydar601@gmail.com
+32.0,1,1,612748,10825 f,KAREH,Roy,Elie,,76562026,roy.kareh1212@gmail.com
+32.0,1,1,612627,10840 f,LOUIS,Wael,Amine,01-900384,71461724,waellouis8@gmail.com
+32.0,1,1,612757,10888 f,MERZA,Rami,Victor,09540865,71543767,Ramimerza.official@gmail.com
+32.0,1,1,612632,10903 f,NAJDI,Rawane,Bilal,01-390844,81896522,Rawane.najdi123@gmail.com
+32.0,1,1,612625,4739 p,NAJEM,Hicham,Kassem,05-435258,71769480,
+32.0,1,1,612927,10858 f,NEMR,Jose,Jean,01250688,71735741,Jnemer7@gmail.com
+32.0,1,1,612715,10893 f,RIMLAWI,Ali,Adel,01546360,71026816,qurse_ali@hotmail.com
+32.0,1,1,612847,10923 f,SALEM,Ibrahim,Khalil,01631663,81862159,ibrahim.salem@isae.edu.lb
+32.0,1,1,612629,10904 f,SALIBA,Jean,Elie,,03357867,jean_e_saliba@live.com
+32.0,1,1,612634,10902 f,TARHINI,Hassan,Ali,05-466604,76915280,Hassantarhani112@gmail.com
+32.0,1,1,612897,10855 f,ZAITER,Hussein,Haydar,08543392,71543392,husseinzeeiter@gmail.com
+32.0,1,1,612735,10826 f,ZEID,Hany,Khaled,,76402331,hanyzeid6@hotmail.com
+32.0,1,2,613041,10910 f,HADDAD,Mike,Elias,01687630,03299937,mikehaddad166@gmail.com
+32.0,1,2,613106,553 p6,SAMAHA,Elie,Mickael,,81647404,
+32.0,1,3,606582,9256 f,ABI NAJEM,Elie,Georges,,71828588,elie_abi_najm@hotmail.com
+32.0,1,4,613123,4928 p,AL RACHINI,Hicham,Hussein,,71176207,hichamrachini@gmail.com
+32.0,5,1,612592,1942 t,AL HELWEH,AbdelMajid,Nouri,,81299023,abdelmajidhelweh@email.com
+32.0,5,1,612850,1933 t,AL SAIDY,Reina,Kamal,06425870,71995593,reinasaidy41@gmail.com
+32.0,5,1,612567,1642 p5,AL_HAMWOUI,Nazih,Jamal ,426727,71623576,
+32.0,5,1,612569,1944 t,DAHANNY,Ayman,Ahmad,211269,79153498,
+32.0,5,1,612714,1938 t,FADDOUL,Charbel,Boulos,06418274,79195728,charbelpfaddoul@gmail.com
+32.0,5,1,612855,1664 p5,KOJOK,Mohamad,Nizar,,81431195,
+32.0,5,1,612889,1930 t,MASRI,Adam,Bilal,,76581756,
+32.0,5,1,612978,2959 p8,MOUSTAFA,Ali,Ghassan,70553192,71229225,
+32.0,5,1,612684,1939 t,SAFAR,Mohammed Osman,Mohammed,06387957,81104857,
+32.0,5,1,612755,1936 t,SASSIYA,Charbel,Joseph,06665752,71898849,sassiya.charbel@gmail.com
+32.0,5,1,612958,1951 t,ZANNOUB,Anas,Mostafa,,76136539,
+32.0,5,2,613020,1928 t,AL BAKKAR,Moataz,Mohamad,,71096420,Motezbekkar@gmail.com
+32.0,5,2,613116,1946 t,CHMAYSEM,Youssof,Yahya,,81504142,chmaysemyoussef@gmail.com
+32.0,5,2,613022,1949 t,HOUSSAIN,Abdel RAHMAN,Omar,,71903297,houssena027@gmail.com
+32.0,5,3,611463,1856 t,ABBOUD,Mohammad,Naser,,71617455,
+32.0,5,3,610074,1835 t,ABBOUD,Omar,Ahmad,,76455221,omar.abboud@isae.edu.lb
+32.0,5,3,610097,1826 t,AL SAYED,Abed al Karim,Abdallah,,71013576,abedalkarim.alsayed@isae.edu.lb
+32.0,5,3,609949,1824 t,AL-CHEDIAC,Christian,Antoine,03228282,76483151,
+32.0,5,3,611044,1837 t,AL-RIFAI,Mahdi,Mouhammad bachir,03151978,81873949,mahdi.al.rifai@gmail.com
+32.0,5,3,611329,1859 t,ASHAGI,Bashir,Munir,06419108,76869852,bashirkashani@hotmail.com
+32.0,5,3,612094,1916 t,CHAMOUN,Toni,Joseph,,81349548,
+32.0,5,3,611003,1876 t,FATFAT,Omar,Mouhib,,71722956,omarfatfat16@gmail.com
+32.0,5,3,610968,1896 t,IDRISS,Mazen,Ahmad,,79194929,mazen_alaa_nader@hotmail.com
+32.0,5,3,609918,1797 t,KALAWOUN,Anas,Rabih,70333644,78950345,anaskalawounanas_kalawoun1998@outlook.com
+32.0,5,3,611970,1883 t,MOUSSI,Sophie,Jamal,06651077,76904491,
+32.0,6,2,613102,1073 z,ABO AL OLA,Raed,Akram,,76465164,
+32.0,6,2,613101,548 p6,ABOU AMMAR,Rawad,Akram,,76547825,
+32.0,6,2,613093,1062 z,ABOU SHAHEEN,Mohammad,Mahmoud,,81887235,
+32.0,6,2,613099,1064 z,ABU ABBASS,Mohamad,Ahmad,,71975084,
+32.0,6,2,613090,1071 z,AKL,Ali,Ahmad,,70769274,
+32.0,6,2,613096,543 p6,AKL,Ali,Abbas,,81028417,
+32.0,6,2,613091,1070 z,AKL,Hussein,Ali,,78817632,
+32.0,6,2,613111,1068 z,AL TAKI,Ali,Dawood,08/593105,70319921,alialtakis63@gmail.com
+32.0,6,2,613092,1066 z,AYOUB,Hasan,Youssef,,78970795,
+32.0,6,2,613103,1065 z,AYOUB,Mazen,Talal,,81761490,
+32.0,6,2,613104,551 p6,BARAKAT,Wael,Mahmoud,,71259369,
+32.0,6,2,613112,555 p6,ISMAIL,Mohamad,Ali,,76071057,moudiboljamegm@gmail.com
+32.0,6,2,613105,552 p6,JABER,Khaled,Shahine,,78970490,
+32.0,6,2,613095,1061 z,JALBOUT,Peter,Charbel,,76377031,
+32.0,6,2,613100,1067 z,KHEIREDDINE,Adham,Nohad,,81967929,
+32.0,6,2,613094,541 p6,LAMEH,Abdallah,Mofid,,76529059,
+32.0,6,2,613097,1058 z,MECHAALANI,Sami,Joseph,,76539123,
+32.0,6,2,613113,556 p6,ZAYDAN,Wael,Imad,08/595609,76078022,waelbassel9@gmail.com
+32.0,6,4,613096,543 p6,AKL,Ali,Abbas,,81028417,
+32.0,6,4,613097,1058 z,MECHAALANI,Sami,Joseph,,76539123,
+32.0,6,4,613113,556 p6,ZAYDAN,Wael,Imad,08/595609,76078022,waelbassel9@gmail.com
+32.0,7,2,613098,545 p6,TEBCHRANI,Elias,Marwan,,71299109,
+32.0,8,1,612940,2355 n,ABDAYEM,Abdel hamid,Oussama,,70113248,
+32.0,8,1,612862,2375 n,AKIKI,Pierre,Youssef,,71969754,
+32.0,8,1,612903,2366 n,AL ASMAR,Mikael,Georges,,71992518,
+32.0,8,1,612608,2425 n,AL HADDAD,Elias,Pierre,,71854416,
+32.0,8,1,612993,2351 n,AL KHOUEIRY,Georges,Tony,,71956103,
+32.0,8,1,612685,2412 n,AZZI,Josiane,Christian,,76557562,jisiane.azzi@hotmail.com
+32.0,8,1,612846,2377 n,BOUTROS,Raymond,George,,76397839,
+32.0,8,1,612687,2458 n,DACCACHE,Charbel,Ghassan,09448628,76468470,daccache30@gmail.com
+32.0,8,1,612745,2472 n,FENIANOS,Pierre,Michel,,76308059,
+32.0,8,1,612693,2463 n,GEARA,Miguel,Georges,,71360660,
+32.0,8,1,612656,2441 n,GHAYAD,Elissa,Elie,,76428945,
+32.0,8,1,612730,2469 n,GHAZAR,Myra,Vahe,,76477223,ghazarmyra@gmail.com
+32.0,8,1,612821,2394 n,HADDAD,Noura,Simon,,70640925,
+32.0,8,1,612622,2430 n,HAIDAR,Joe,Semaan,,76491136,
+32.0,8,1,612880,2368 n,IBRAHIM,Jean-jacques,Phillippe,,76557099,
+32.0,8,1,612680,2456 n,IMAD,Marc-anthony,Michel,,81201800,marc-anthony.imad@gmail.com
+32.0,8,1,612713,2465 n,ISSA,Ralph,Walid,,70879253,
+32.0,8,1,612675,2453 n,KOSSAIFY,Joey,Gerges,09796955,79195125,
+32.0,8,1,612774,2403 n,SFEIR,Kevin,Miled,,71641761,kevinsfeir@gmail.com
+32.0,8,1,612620,2429 n,YOUNES,Wael,Nassif,,71484753,
+32.0,8,1,612729,2468 n,ZAKKOUR,Charbel,Jean,06351465 ,71074668,
+32.0,8,1,612681,2420 n,ZIADE,Tony,Elias,09788578,70470417,tony.ziade@mail.com
+32.0,8,1,612976,2352 n,ZOUEIN,Charbel,Elie,,03182843,
+32.0,8,2,613078,2476 n,ABI AKAR,Yorgo,Abdo,,71475773,
+32.0,8,2,613038,2483 n,HANNA,Richard,Toni,09215717,78964561,richardhanna948@gmail.com
+32.0,8,2,613059,2340 n,YOUSSEF,Kamil,Fady,,71490360,
+32.0,8,3,611127,2052 n,MATTA,Charbel,Hady,09624814,76477240,aba-10@live.com
+33.0,1,2,608859,1540 bek,BOU JAOUDE,Valenty,Abdallah,,76464690,valentyaboujaoude@gmail.com
+33.0,1,2,611412,10522 f,HAZZOURY,Sabah,Imad,06/692699,71847283,sabh.9574@outlook.com
+33.0,1,2,609594,9926 f,RIZK,Rouba,Nabil,01497947,71803537,rizkrouba7@gmail.com
+33.0,1,3,610714,1576 bek,AYOUB,Perla Nera,Joseph,,71238162,perla.n.e@hotmail.com
+33.0,1,3,611584,10560 f,CHAABAN,Salah ELDine,Walid,78908448,78908448,salah.34chaaban@gmail.com
+33.0,1,3,609594,9926 f,RIZK,Rouba,Nabil,01497947,71803537,rizkrouba7@gmail.com

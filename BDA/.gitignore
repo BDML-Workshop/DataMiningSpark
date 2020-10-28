@@ -13,6 +13,7 @@ twitter_app/checkpoint_*
 *.csv
 *.xlsx
 *.xls
+!/First/*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
